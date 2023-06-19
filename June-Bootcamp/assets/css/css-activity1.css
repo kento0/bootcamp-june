@@ -1,0 +1,23 @@
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+thead{
+    background-color: lightpink;
+    color: #fff;
+}
+
+img{
+    width: 45px;
+    height: auto;
+}
+
+.border-collapse-collapse{
+    border-collapse: collapse;
+}
+
+.bg-orange{
+    background-color: rgb(251, 209, 158);
+}
